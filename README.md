@@ -1,4 +1,4 @@
-## Revshell is a python script that will display multiple reverse shells in different programming langueges
+### Revshell is a python script that will display multiple reverse shells in different programming langueges
 
 <p>
     These shells were found online from different resources, they will be listed below
@@ -9,7 +9,7 @@
 ## Usage
 
 ```powershell
-revshell.py -l [local IP] -p [port you want to listen on] -s [the language you want] </br> </br> 
+revshell.py -l [local IP] -p [port you want to listen on] -s [the language you want]
 Example: revshell.py -l 10.10.10.10 -p 5555 -s bash 
 ```
 
