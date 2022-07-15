@@ -34,11 +34,11 @@ nc -u -lvp 5555
 
 ## Reverse shell's resources
 
-[pentestmonkey]("https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet")
+[pentestmonkey](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 
-[Bernardo's Reverse Shell One-Liners]("https://bernardodamele.blogspot.com/2011/09/reverse-shells-one-liners.html")
+[Bernardo's Reverse Shell One-Liners](https://bernardodamele.blogspot.com/2011/09/reverse-shells-one-liners.html)
 
-[payloadsallthethings]("https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md")
+[payloadsallthethings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
 
 ---
 
